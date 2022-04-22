@@ -1,0 +1,22 @@
+
+p {
+  color: navy;
+  text-align: left;
+} 
+h1 {
+    font-family: cursive;
+        
+    color: #9900ff;  
+    text-decoration: darkgreen
+}
+
+ul { color: #009966;
+     border-bottom-color: #9999ff;
+     outline-color: white;
+animation: infinite;
+    
+}
+body {
+    background-image: url(IMG/gwp.jpg)
+    
+}
